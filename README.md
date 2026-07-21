@@ -1,3 +1,5 @@
 # Effects-of-Adrenaline-on-Memory-Experimental-Design-and-Analysis
 
-Conducted a Latin square experiment using The Islands virtual simulation to investigate the effects of adrenaline on memory. Designed and implemented a randomized treatment order, ensured informed consent from participants, and maintained appropriate washout periods between treatments. Applied linear modeling and ANOVA for statistical analysis, including model diagnostics, to evaluate treatment effectiveness.
+- Designed and executed a 5x5 Latin Square experiment with five replicates to evaluate differences among adrenaline-inducing treatments while controlling for subject and treatment-order effects.
+- Applied ANOVA, Tukey HSD, Box-Cox transformations, and diagnostic analysis in R to validate model assumptions and compare treatment effects.
+- Led statistical interpretation and communicated experimental findings through a technical research report and presentation.
